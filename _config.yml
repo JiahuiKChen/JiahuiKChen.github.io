@@ -55,9 +55,9 @@ footer-links-active:
   rss: false
   stackoverflow: false
 
-url-pretty: "jiahuikchen.me"
+# url-pretty: "jiahuikchen.me"
 
-timezone: "America/Denver"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
