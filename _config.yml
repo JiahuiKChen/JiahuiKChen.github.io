@@ -1,0 +1,137 @@
+url: "https://jiahuikchen.github.io/"
+baseurl: ""
+title: "Jiahui (Karen) Chen"
+description: "Computer Science, Math, and Cognitive Science Undergrad"
+avatar0: "/img/Jiahui_Chen0.PNG"
+avatar1: "/img/Jiahui_Chen1.jpg"
+avatarurl: "https://jiahuikchen.github.io/about-me/"
+
+navbar-links:
+  Projects/Papers:
+  # TODO:
+  # SLATE
+  # 2 PEARC PAPERS
+  
+  
+#     - ABySS: "https://github.com/bcgsc/abyss#readme"
+#     - Brewsci/bio: "https://brewsci.github.io/homebrew-bio/"
+#     - Homebrew: "https://brew.sh"
+#     - Linuxbrew: "https://linuxbrew.sh"
+#     - ORCA: "https://www.bcgsc.ca/services/orca"
+#     - Tigmint: "https://bcgsc.github.io/tigmint/"
+#     - UniqTag: "https://github.com/sjackman/uniqtag#readme"
+#   Papers:
+#     - Google Scholar: "https://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+#     - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D"
+#     - ORCID: "https://orcid.org/0000-0002-9275-5966"
+#     - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
+#     - Posters & Slides: "portfolio"
+  Where Else You Can Find Me:
+    - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
+    - GitHub: "https://github.com/JiahuiKChen"
+    - Instagram: "https://www.instagram.com/jiahui.k.chen"
+#   Resume: "https://sjackman.ca/resume"
+  Resume: "resume"
+  About Me: "about-me"
+
+author:
+  name: "Jiahui (Karen) Chen"
+  email: "jiahui.k.chen@gmail.com"
+  github: "JiahuiKChen"
+  instagram: "jiahui.k.chen"
+#   googlescholar: "wFl3qXAAAAAJ"
+#   impactstory: "0000-0002-9275-5966"
+  linkedin: "in/jiahui-k-chen/"
+
+footer-links-active:
+  email: true
+  instagram: true
+  github: true
+  googlescholar: false
+  impactstory: false
+  linkedin: true
+  twitter: false
+  facebook: false
+  rss: false
+  stackoverflow: false
+
+url-pretty: "jiahuikchen.me"
+
+timezone: "America/Denver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 99
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
