@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  " "
-subtitle: My 1-page, technical resume. Full portfolio is on my [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).
+title:  
+subtitle: My 1-page, technical resume. Full portfolio is on my <a href="https://linkedin.com/in/jiahui-k-chen/">LinkedIn</a>.
 show-avatar: false
 ---
 <!-- ## Resume -->
