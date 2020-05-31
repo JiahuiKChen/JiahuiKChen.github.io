@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title:  Technical Resume & Curriculum Vitae
 subtitle:
 show-avatar: false
 ---
