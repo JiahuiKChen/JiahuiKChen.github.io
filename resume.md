@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Jiahui (Karen) Chen
-subtitle: The 1-page PDF version of my resume. Full portfolio is on my LinkedIn (icon at bottom of the page)
-show-avatar: true
+title:  
+subtitle: My 1-page, technical resume. Full portfolio is on my [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).
+show-avatar: false
 ---
 ## Resume
 
-<object data="/img/Jiahui Chen Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/img/Resume_May_30.pdf" width="1000" height="1000" type='application/pdf'></object>
