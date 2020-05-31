@@ -28,8 +28,8 @@ navbar-links:
     - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
     - Google Sholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
     - GitHub: "https://github.com/JiahuiKChen"
-    - Instagram: "https://www.instagram.com/jiahui.k.chen"
-    
+    # - Instagram: "https://www.instagram.com/jiahui.k.chen"
+
   Resume: "resume"
 
   About Me: "about-me"
