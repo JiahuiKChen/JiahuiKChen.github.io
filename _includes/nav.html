@@ -19,7 +19,7 @@
             <div class="navlinks-children">
               {% for childlink in link[1] %}
                 {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
+                  {% include navbarchildlink.html link=linkparts %}
                 {% endfor %}
               {% endfor %}
             </div>
