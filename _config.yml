@@ -7,10 +7,7 @@ avatar1: "/img/Jiahui_Chen1.jpg"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
-  Projects/Papers:
-  # TODO:
-  # SLATE
-  # 2 PEARC PAPERS
+  # Projects/Papers:
 
 
 #     - ABySS: "https://github.com/bcgsc/abyss#readme"
@@ -28,6 +25,7 @@ navbar-links:
 #     - Posters & Slides: "portfolio"
   Where Else You Can Find Me:
     - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
+    - Google Sholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
     - GitHub: "https://github.com/JiahuiKChen"
     - Instagram: "https://www.instagram.com/jiahui.k.chen"
   Resume: "resume"
