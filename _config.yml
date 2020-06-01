@@ -8,10 +8,7 @@ avatar: "/img/Jiahui_Chen1.jpg"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
-  Blog: "https://medium.com/@jiahui.k.chen"
-  # Projects/Papers:
-
-
+# Projects/Papers:
 #     - ABySS: "https://github.com/bcgsc/abyss#readme"
 #     - Brewsci/bio: "https://brewsci.github.io/homebrew-bio/"
 #     - Homebrew: "https://brew.sh"
@@ -25,13 +22,16 @@ navbar-links:
 #     - ORCID: "https://orcid.org/0000-0002-9275-5966"
 #     - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
 #     - Posters & Slides: "portfolio"
-  Where Else You Can Find Me:
+  Portfolio:
     - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
-    - Google Sholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
-    - GitHub: "https://github.com/JiahuiKChen"
+    - Resume & CV: "resume"
+    - Papers (Google Sholar): "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
+    - Code (GitHub): "https://github.com/JiahuiKChen"
     # - Instagram: "https://www.instagram.com/jiahui.k.chen"
 
-  Resume/CV: "resume"
+  # Resume/CV: "resume"
+
+  Blog: "https://medium.com/@jiahui.k.chen"
 
   About Me: "about-me"
 
