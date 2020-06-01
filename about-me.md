@@ -7,7 +7,6 @@ show-avatar: true
 # About Me  
 
 I graduated in 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
-
 I'm interested in the intersection of AI and neuroscience/cognitive science
 and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.  
 <br/>
@@ -15,7 +14,7 @@ and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.
 I enjoy the outdoors, exercise (especially tennis), violin, food, and learning new things.
 
 
-<div class="images" position="relative" style="width:950px;height:300px">
+<div class="images" position="relative" style="width:100%;height:500px">
   <div class="imgContainer">
   <!-- style="width:350px" -->
     <img src="/img/dim_sum.JPG" style="height:400px">
