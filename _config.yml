@@ -3,7 +3,8 @@ baseurl: ""
 title: "Jiahui (Karen) Chen"
 description: "Computer Science, Math, and Cognitive Science Undergrad"
 avatar0: "/img/Jiahui_Chen0.PNG"
-avatar1: "/img/Jiahui_Chen1.jpg"
+avatar1: "/img/jean_sqr.jpg"
+# avatar1: "/img/Jiahui_Chen1.jpg"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
