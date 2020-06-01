@@ -17,13 +17,14 @@ I enjoy the outdoors, exercise (especially tennis), violin, food, and learning n
 
 <div class="images" position="relative" style="width:950px;height:300px">
   <div class="imgContainer">
-    <img src="/img/dim_sum.jpg" style="width:350px">
+  <!-- style="width:350px" -->
+    <img src="/img/dim_sum.JPG">
   </div>
   <div class="imgContainer">
-    <img src="/img/grad.jpg" style="width:350px">
+    <img src="/img/grad.jpg">
   </div>
   <div class="imgContainer">
-    <img src="/img/tennis_sqr.jpg" style="width:350px">
+    <img src="/img/tennis_sqr.jpg">
   </div>
 </div>
 <div style="width:800px">
