@@ -87,7 +87,8 @@ img {
 /* Three images in About Me*/
 .imgContainer {
   float: left;
-  /* width: 33.33%; */
+  width: 250px;
+  height: 400px;
   padding: 5px;
 }
 

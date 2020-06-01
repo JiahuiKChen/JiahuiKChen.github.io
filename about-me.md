@@ -16,14 +16,14 @@ I enjoy the outdoors, exercise (especially tennis), violin, food, and learning n
 
 <div class="images" position="relative" style="width:100%;height:500px">
   <div class="imgContainer">
-  <!-- style="width:350px" -->
-    <img src="/img/dim_sum.JPG" style="height:400px">
+  <!-- style="height:400px" SET PHOTO DIMENSIONS VIA THE imgContainer class in main.css-->
+    <img src="/img/dim_sum.JPG">
   </div>
   <div class="imgContainer">
-    <img src="/img/grad.jpg" style="height:400px">
+    <img src="/img/grad.jpg">
   </div>
   <div class="imgContainer">
-    <img src="/img/tennis_sqr.jpg" style="height:400px">
+    <img src="/img/tennis_sqr.jpg">
   </div>
 </div>
 <div style="width:800px">
