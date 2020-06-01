@@ -1,23 +1,32 @@
 ---
 layout: page
 title: Jiahui (Karen) Chen
-subtitle: Incoming Software Engineer at Facebook. Computer scientist and researcher interested in AI/ML.
+subtitle: Incoming software engineer at Facebook, computer scientist and researcher interested in AI/ML.
 show-avatar: true
 ---
-# About Me
+# About Me  
 
-<!-- <div class="images" position="relative" style="width:950px;height:300px">
+I graduated in 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
+<br/>
+I'm interested in the intersection of AI and neuroscience/cognitive science
+and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.  
+<br/>
+<br/>
+I enjoy the outdoors, exercise (especially tennis), violin, food, and learning new things.
+
+
+<div class="images" position="relative" style="width:950px;height:300px">
   <div class="imgContainer">
-    <img src="/img/snowy_sqr.jpg" alt="me1" style="width:350px">
+    <img src="/img/dim_sum.jpg" style="width:350px">
   </div>
   <div class="imgContainer">
-    <img src="/img/bridge_sqr.jpg" alt="me2" style="width:350px">
+    <img src="/img/grad.jpg" style="width:350px">
   </div>
   <div class="imgContainer">
-    <img src="/img/tennis_sqr.jpg" alt="me3" style="width:350px">
+    <img src="/img/tennis_sqr.jpg" style="width:350px">
   </div>
 </div>
-<div style="width:800px"> -->
+<div style="width:800px">
 
 
   <!-- <p>
