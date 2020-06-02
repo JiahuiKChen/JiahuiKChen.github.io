@@ -82,9 +82,10 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  object-fit: cover;
 }
 
-/* Three images in About Me*/
+/* Individual images in About Me*/
 .imgContainer {
   float: left;
   width: 33.33%;
