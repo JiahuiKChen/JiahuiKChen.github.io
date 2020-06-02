@@ -13,16 +13,16 @@ and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.
 I enjoy the outdoors, exercise (especially tennis), violin, food, and learning new things.
 
 
-<div position="relative" style="width:100%;height:500px">
+<div position="relative" style="width:100%;height:600px">
   <div class="imgContainer">
   <!-- All image dimensions in imgContainer -->
-    <img src="/img/dimsum_2000l.jpg">
+    <img class="about-me-img" src="/img/dimsum_2000l.jpg">
   </div>
   <div class="imgContainer">
-    <img src="/img/grad_2000l.jpg">
+    <img class="about-me-img" src="/img/grad_2000l.jpg">
   </div>
   <div class="imgContainer">
-    <img src="/img/tennis_sqr.jpg">
+    <img class="about-me-img" src="/img/tennis_sqr.jpg">
   </div>
 </div>
 <div style="width:800px">
