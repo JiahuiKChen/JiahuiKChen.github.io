@@ -13,7 +13,7 @@ and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.
 I enjoy the outdoors, exercise (especially tennis), violin, food, and learning new things.
 
 
-<div class="images" position="relative" style="width:100%;height:500px">
+<div class="images" position="relative" style="width:100%;height:400px">
   <div class="imgContainer">
   <!-- style="height:400px" SET PHOTO WIDTH VIA THE imgContainer class in main.css-->
     <img src="/img/dim_sum.JPG" style="height:400px">
