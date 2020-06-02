@@ -83,6 +83,7 @@ img::-moz-selection {
 img {
   max-width: 100%;
   object-fit: cover;
+  height: 400px;
 }
 
 /* Individual images in About Me*/
