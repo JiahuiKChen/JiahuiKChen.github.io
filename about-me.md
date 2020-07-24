@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jiahui (Karen) Chen
-subtitle: Incoming software engineer at Facebook, computer scientist and researcher interested in AI/ML.
+subtitle: Software engineer at Facebook, computer scientist and researcher interested in AI/ML.
 show-avatar: true
 ---
 # About Me  
