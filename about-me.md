@@ -6,7 +6,7 @@ show-avatar: true
 ---
 # About Me  
 
-I graduated in 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
+I graduated in May 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
 I'm interested in the intersection of AI and neuroscience/cognitive science
 and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.  
 <br/>
