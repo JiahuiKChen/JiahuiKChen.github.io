@@ -8,7 +8,7 @@ show-avatar: true
 
 I graduated in May 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
 I'm interested in the intersection of AI and neuroscience/cognitive science
-and am planning on pursuing a Computer Science Ph.D. starting Fall 2021.  
+and am planning on eventually pursuing a Computer Science Ph.D.  
 <br/>
 I enjoy the outdoors and exercise (especially tennis), food and cooking, books and podcasts, and playing violin.  
 I also occasionally [write](https://medium.com/@jiahui.k.chen).
