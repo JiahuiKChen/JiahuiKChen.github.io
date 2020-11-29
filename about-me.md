@@ -10,7 +10,7 @@ I graduated in May 2020 with a Computer Science B.S. and minors in Math and Cogn
 I'm interested in the intersection of AI and neuroscience/cognitive science
 and am planning on eventually pursuing a Computer Science Ph.D.  
 <br/>
-I enjoy the outdoors and exercise (especially tennis), food and cooking, books and podcasts, and playing violin.  
+I enjoy the outdoors and exercise, music and playing violin, community engagement, and houseplants.  
 I also occasionally [write](https://medium.com/@jiahui.k.chen).
 
 

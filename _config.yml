@@ -1,7 +1,7 @@
 url: "https://jiahuikchen.github.io/"
 baseurl: ""
 title: "Jiahui (Karen) Chen"
-description: "Computer Science, Math, and Cognitive Science Undergrad"
+description: "Software engineer at Facebook, computer scientist and researcher interested in AI/ML."
 avatar: "/img/grad_close.PNG"
 # avatar: "/img/Jiahui_Chen1.jpg" "/img/jean_sqr.jpg"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
@@ -30,7 +30,7 @@ navbar-links:
 
   # Resume/CV: "resume"
 
-  Blog: "https://medium.com/@jiahui.k.chen"
+  Blog: "https://jiahui-k-chen.medium.com/"
 
   About Me: "about-me"
 
