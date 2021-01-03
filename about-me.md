@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jiahui (Karen) Chen
-subtitle: Software engineer at Facebook, computer scientist and researcher interested in AI/ML.
+subtitle: AI research software engineer at Facebook
 show-avatar: true
 ---
 # About Me  
@@ -10,8 +10,7 @@ I graduated in May 2020 with a Computer Science B.S. and minors in Math and Cogn
 I'm interested in the intersection of AI and neuroscience/cognitive science
 and am planning on eventually pursuing a Computer Science Ph.D.  
 <br/>
-I enjoy the outdoors and exercise, music and playing violin, community engagement, and houseplants.  
-I also occasionally [write](https://medium.com/@jiahui.k.chen).
+I enjoy the outdoors and exercise, music and playing violin, community engagement, food, and houseplants. I also occasionally [write](https://medium.com/@jiahui.k.chen).
 
 
 <div position="relative" style="width:100%;height:500px">
