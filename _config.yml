@@ -1,26 +1,13 @@
 url: "https://jiahuikchen.github.io/"
 baseurl: ""
-title: "Jiahui (Karen) Chen"
+title: "Jiahui (Karen) Chen's Website"
 description: "Software engineer at Facebook, computer scientist and researcher interested in AI/ML."
 avatar: "/img/grad_close.PNG"
-# avatar: "/img/Jiahui_Chen1.jpg" "/img/jean_sqr.jpg"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
-# Projects/Papers:
-#     - ABySS: "https://github.com/bcgsc/abyss#readme"
-#     - Brewsci/bio: "https://brewsci.github.io/homebrew-bio/"
-#     - Homebrew: "https://brew.sh"
-#     - Linuxbrew: "https://linuxbrew.sh"
-#     - ORCA: "https://www.bcgsc.ca/services/orca"
-#     - Tigmint: "https://bcgsc.github.io/tigmint/"
-#     - UniqTag: "https://github.com/sjackman/uniqtag#readme"
 #   Papers:
-#     - Google Scholar: "https://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
-#     - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D"
-#     - ORCID: "https://orcid.org/0000-0002-9275-5966"
-#     - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
-#     - Posters & Slides: "portfolio"
+#     - Google Scholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
   Portfolio:
     - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
     - Resume & CV: "resume"
@@ -40,8 +27,6 @@ author:
   github: "JiahuiKChen"
   instagram: "jiahui.k.chen"
   googlescholar: "73kzHn4AAAAJ&hl=en"
-  # googlescholar: "wFl3qXAAAAAJ" for: https://scholar.google.ca/citations?user=wFl3qXAAAAAJ
-#   impactstory: "0000-0002-9275-5966"
   linkedin: "in/jiahui-k-chen/"
 
 footer-links-active:
