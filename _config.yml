@@ -6,16 +6,11 @@ avatar: "/img/grad_close.PNG"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
-#   Papers:
-#     - Google Scholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
   Portfolio:
     - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
     - Resume & CV: "resume"
-    - Papers (Google Sholar): "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
+    - Publications (Google Sholar): "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
     - Code (GitHub): "https://github.com/JiahuiKChen"
-    # - Instagram: "https://www.instagram.com/jiahui.k.chen"
-
-  # Resume/CV: "resume"
 
   Blog: "https://jiahui-k-chen.medium.com/"
 
