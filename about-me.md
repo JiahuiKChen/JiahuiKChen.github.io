@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Jiahui (Karen) Chen
-subtitle: AI research software engineer at Facebook
+subtitle: AI research software engineer
 show-avatar: true
 ---
 # About Me  
 
-I graduated in May 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
-I'm interested in the intersection of AI and neuroscience/cognitive science
-and am planning on eventually pursuing a Computer Science Ph.D.  
+I graduated in 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
+I'm interested in AI robustness via uncertainty quantification and other probabilistic methods,
+and am planning on eventually pursuing a Ph.D.  
 <br/>
 I enjoy the outdoors and exercise, music and playing violin, community engagement, food, and houseplants. I also occasionally [write](https://medium.com/@jiahui.k.chen).
 
