@@ -12,7 +12,7 @@ navbar-links:
     - Publications (Google Sholar): "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
     - Code (GitHub): "https://github.com/JiahuiKChen"
 
-  Blog: "https://jiahui-k-chen.medium.com/"
+#   Blog: "https://jiahui-k-chen.medium.com/"
 
   About Me: "about-me"
 
