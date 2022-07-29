@@ -1,7 +1,7 @@
 Jiahui (Karen) Chen
 =============
 
-*Computer Science, Math, and Cognitive Science Undergrad*
+Personal website
 
 See jiahuikchen.github.io for site
 
