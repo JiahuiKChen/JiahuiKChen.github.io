@@ -10,4 +10,4 @@ show-avatar: false
 <object data="/img/jiahui_chen_resume2022.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Curriculum Vitae**
-<object data="/img/cv_10_21.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/img/jiahui_chen_cv2022.pdf" width="1000" height="1000" type='application/pdf'></object>
