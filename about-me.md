@@ -6,11 +6,10 @@ show-avatar: true
 ---
 # About Me  
 
-I graduated in 2020 with a Computer Science B.S. and minors in Math and Cognitive Science.  
-I'm interested in AI robustness via uncertainty quantification and other probabilistic methods,
-and am planning on eventually pursuing a Ph.D.  
+I have a B.S. in Computer Science with minors in Math and Cognitive Science and will pursue a PhD in AI starting Fall 2023.  
+I'm interested in researching AI robustness via uncertainty quantification and understanding how to control generative models.
 <br/>
-Among many other things, I enjoy the tennis, dance, [community engagement](https://www.codetenderloin.org/blog), and food. 
+Among many other things, I enjoy the tennis, dance and acrobatics, [community engagement](https://www.codetenderloin.org/blog), and food. 
 I also (very) occasionally [write](https://medium.com/@jiahui.k.chen).
 
 
