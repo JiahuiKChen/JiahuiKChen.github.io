@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 700;
 }
 a {
-  color: #008AFF;
+  color: #0061b3;
 }
 a:hover,
 a:focus {
@@ -332,6 +332,10 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.post-preview .post-entry a {
+  color: #0061b3;
+  text-decoration:underline;
 }
 .post-preview .post-read-more {
   font-weight: 800;
