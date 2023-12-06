@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  Technical Resume & Curriculum Vitae
+title:  Resume & Curriculum Vitae
 subtitle:
 show-avatar: false
 ---
-### More details on projects and positions are on my [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).  
+### More details on projects and positions are on [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).  
 
 **Curriculum Vitae**  
 Last updated Nov, 2023
