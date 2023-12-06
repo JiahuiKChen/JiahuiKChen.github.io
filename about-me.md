@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Jiahui (Karen) Chen
-subtitle: AI research software engineer
+subtitle: 
 show-avatar: true
 ---
 # About Me  
 
-I have a B.S. in Computer Science with minors in Math and Cognitive Science and will pursue a PhD in AI starting Fall 2023.  
-I'm interested in researching AI robustness via uncertainty quantification and understanding how to control generative models.  
-<br/> 
-Among many other things, I enjoy the dance and acrobatics, tennis, [community engagement](https://www.codetenderloin.org/blog), and food. 
+Outside of research I enjoy dance and acrobatics, tennis, [making the tech industry more accessible]([https://www.codetenderloin.org/blog](https://www.codetenderloin.org/blog/2020-year-in-review)), and food. 
 I also (very) occasionally [write](https://medium.com/@jiahui.k.chen).
 
 
