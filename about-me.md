@@ -6,8 +6,8 @@ show-avatar: true
 ---
 # About Me  
 
-Outside of research I enjoy dance and acrobatics, tennis, [making the tech industry more accessible]([https://www.codetenderloin.org/blog](https://www.codetenderloin.org/blog/2020-year-in-review)), and food. 
-I also (very) occasionally [write](https://medium.com/@jiahui.k.chen).
+Outside of research I enjoy dance and acrobatics, tennis, [making the tech industry more accessible](https://www.codetenderloin.org/blog/2020-year-in-review), and food. 
+I also (very) occasionally [write](https://medium.com/@jiahui-k-chen).
 
 
 <div position="relative" style="width:100%;height:500px">
