@@ -1,7 +1,6 @@
 Jiahui (Karen) Chen
 =============
 
-Personal website
+[Personal website](https://jiahuikchen.github.io)
 
-See [jiahuikchen.github.io](jiahuikchen.github.io) for site
 
