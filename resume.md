@@ -7,7 +7,7 @@ show-avatar: false
 ### More details on projects and positions are on [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).  
 
 **Curriculum Vitae**  
-Last updated Nov, 2023
+Last updated Aug, 2024
 <object data="/img/Jiahui_Chen_CV_Aug2024.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Resume**  
