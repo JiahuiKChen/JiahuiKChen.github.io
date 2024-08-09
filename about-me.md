@@ -15,7 +15,7 @@ Outside of research I enjoy dance and acrobatics, tennis, [making the tech indus
     <img class="about-me-img" src="/img/dimsum_2000l.jpg">
   </div>
   <div class="imgContainer">
-    <img class="about-me-img" src="/img/grad_2000l.jpg">
+    <img class="about-me-img" src="/img/flowers.jpg">
   </div>
   <div class="imgContainer">
     <img class="about-me-img" src="/img/tennis_sqr.jpg">
