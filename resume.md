@@ -8,7 +8,7 @@ show-avatar: false
 
 **Curriculum Vitae**  
 Last updated Aug, 2024
-<object data="/img/Jiahui_Chen_CV_Aug2024.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/img/CV_Dec2024.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Resume**  
 Last updated May, 2023
