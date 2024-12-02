@@ -4,7 +4,8 @@ title:  Resume & Curriculum Vitae
 subtitle:
 show-avatar: false
 ---
-### More details on projects and positions are on [LinkedIn](https://linkedin.com/in/jiahui-k-chen/).  
+**More details on projects and positions: [LinkedIn](https://linkedin.com/in/jiahui-k-chen/)**  
+**Publications: [Google Scholar](https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en)**
 
 **Curriculum Vitae**  
 Last updated Dec, 2024
