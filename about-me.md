@@ -12,7 +12,7 @@ Outside of research I enjoy dance and acrobatics, tennis, [making the tech indus
 <div position="relative" style="width:100%;height:500px">
   <div class="imgContainer">
   <!-- All image dimensions in imgContainer -->
-    <img class="about-me-img" src="/img/dimsum_2000l.jpg">
+    <img class="about-me-img" src="/img/acro.jpg">
   </div>
   <div class="imgContainer">
     <img class="about-me-img" src="/img/flowers.jpg">
