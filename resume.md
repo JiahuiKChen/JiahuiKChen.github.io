@@ -9,8 +9,8 @@ show-avatar: false
 
 **Curriculum Vitae**  
 Last updated Dec, 2024
-<object data="/img/CV_Dec2024.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/img/CV_Jan2026.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Resume**  
 Last updated Dec, 2024
-<object data="/img/Technical_Resume_Dec2024.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/img/Technical_Resume_Jan2026.pdf" width="1000" height="1000" type='application/pdf'></object>
