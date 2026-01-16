@@ -23,15 +23,16 @@ author:
   instagram: "jiahui.k.chen"
   googlescholar: "73kzHn4AAAAJ&hl=en"
   linkedin: "in/jiahui-k-chen/"
+  twitter: "jiahui_k_chen"
 
 footer-links-active:
   email: true
-  instagram: true
+  instagram: false 
   github: true
   googlescholar: true
   impactstory: false
   linkedin: true
-  twitter: false
+  twitter: true 
   facebook: false
   rss: false
   stackoverflow: false
