@@ -8,9 +8,9 @@ show-avatar: false
 **Publications: [Google Scholar](https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en)**
 
 **Curriculum Vitae**  
-Last updated Dec, 2024
+Last updated Jan, 2026
 <object data="/img/CV_Jan2026.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Resume**  
-Last updated Dec, 2024
+Last updated Jan, 2026
 <object data="/img/Technical_Resume_Jan2026.pdf" width="1000" height="1000" type='application/pdf'></object>

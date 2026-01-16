@@ -7,9 +7,9 @@ avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
   Portfolio:
-    - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
-    - Resume & CV: "resume"
     - Google Sholar: "https://scholar.google.com/citations?user=73kzHn4AAAAJ&hl=en"
+    - Resume & CV: "resume"
+    - LinkedIn: "https://linkedin.com/in/jiahui-k-chen/"
     - GitHub: "https://github.com/JiahuiKChen"
 
 #   Blog: "https://jiahui-k-chen.medium.com/"
