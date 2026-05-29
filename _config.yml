@@ -2,7 +2,8 @@ url: "https://jiahuikchen.github.io/"
 baseurl: ""
 title: "Jiahui (Karen) Chen"
 description: "Software engineer at Facebook, computer scientist and researcher interested in AI/ML."
-avatar: "/img/grad_close.PNG"
+avatar: "/img/headshot-2025-avatar.png"
+favicon: "/img/headshot-2025-favicon.png"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
@@ -40,6 +41,8 @@ footer-links-active:
 # url-pretty: "jiahuikchen.me"
 
 timezone: "America/Los_Angeles"
+plugins:
+  - jekyll-paginate
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

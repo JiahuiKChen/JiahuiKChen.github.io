@@ -8,17 +8,14 @@ show-avatar: true
 
 Outside of research I enjoy dance and acrobatics, tennis, [making the tech industry more accessible](https://www.codetenderloin.org/blog/2020-year-in-review), and food. 
 
-
-<div position="relative" style="width:100%;height:500px">
-  <div class="imgContainer">
-  <!-- All image dimensions in imgContainer -->
-    <img class="about-me-img" src="/img/acro.jpg">
+<div class="about-gallery">
+  <div class="about-gallery-item">
+    <img class="about-me-img" src="/img/acro.jpg" alt="Karen doing acrobatics">
   </div>
-  <div class="imgContainer">
-    <img class="about-me-img" src="/img/flowers.jpg">
+  <div class="about-gallery-item">
+    <img class="about-me-img" src="/img/flowers.jpg" alt="Flowers">
   </div>
-  <div class="imgContainer">
-    <img class="about-me-img" src="/img/tennis_sqr.jpg">
+  <div class="about-gallery-item">
+    <img class="about-me-img" src="/img/tennis_sqr.jpg" alt="Karen playing tennis">
   </div>
 </div>
-<div style="width:800px">

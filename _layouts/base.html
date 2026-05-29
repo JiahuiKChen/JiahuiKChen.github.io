@@ -18,7 +18,26 @@ common-js:
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
   {% include head.html %}
 
-  <body>
+  {% assign show_avatar = false %}
+  {% if site.avatar %}
+    {% if layout["show-avatar"] or page["show-avatar"] %}
+      {% assign show_avatar = true %}
+    {% endif %}
+  {% endif %}
+
+  {% assign body_classes = "" %}
+  {% if page["body-class"] %}
+    {% assign body_classes = page["body-class"] %}
+  {% endif %}
+  {% if show_avatar %}
+    {% if body_classes != "" %}
+      {% assign body_classes = body_classes | append: " has-avatar" %}
+    {% else %}
+      {% assign body_classes = "has-avatar" %}
+    {% endif %}
+  {% endif %}
+
+  <body{% if body_classes != "" %} class="{{ body_classes }}"{% endif %}>
   
     {% include nav.html %}
 
