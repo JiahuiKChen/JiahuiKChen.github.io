@@ -43,11 +43,23 @@ hr.small {
   border-radius: 3px;
 }
 
+.home-intro {
+  margin-top: 34px;
+}
+
+.home-intro p {
+  margin: 0 0 30px;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
 .home-section-divider {
   height: 1px;
   width: 100%;
   max-width: 100%;
-  margin: 38px 0 24px;
+  margin: 54px 0 30px;
   background: #808080;
   opacity: 0.55;
 }
