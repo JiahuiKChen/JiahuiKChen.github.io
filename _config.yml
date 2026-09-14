@@ -3,7 +3,7 @@ baseurl: ""
 title: "Jiahui (Karen) Chen"
 description: "Software engineer at Facebook, computer scientist and researcher interested in AI/ML."
 avatar: "/img/headshot-2025-avatar.png"
-favicon: "/img/headshot-2025-favicon.png"
+favicon: "/img/favicon-headshot-2025.png"
 avatarurl: "https://jiahuikchen.github.io/about-me/"
 
 navbar-links:
@@ -21,14 +21,12 @@ author:
   name: "Jiahui (Karen) Chen"
   email: "jiahui.k.chen@gmail.com"
   github: "JiahuiKChen"
-  instagram: "jiahui.k.chen"
   googlescholar: "73kzHn4AAAAJ&hl=en"
   linkedin: "in/jiahui-k-chen/"
   twitter: "jiahui_k_chen"
 
 footer-links-active:
   email: true
-  instagram: false 
   github: true
   googlescholar: true
   impactstory: false
